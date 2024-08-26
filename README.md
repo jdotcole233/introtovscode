@@ -9,3 +9,8 @@
 ```
 
 #### Some comments
+
+## List of languages
+- Python
+- Shell Scripting
+- MySQL
